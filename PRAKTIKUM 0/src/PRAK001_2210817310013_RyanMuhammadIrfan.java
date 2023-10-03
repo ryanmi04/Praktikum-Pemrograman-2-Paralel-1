@@ -1,4 +1,4 @@
-public class PRAK101_2210817310013_RyanMuhammadIrfan {
+public class PRAK001_2210817310013_RyanMuhammadIrfan {
     public static void main(String[] args){
 
         System.out.println("Selamat Pagi, Ryan Muhammad Irfan");
