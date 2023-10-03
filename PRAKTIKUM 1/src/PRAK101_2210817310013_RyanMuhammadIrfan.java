@@ -6,7 +6,7 @@ public class PRAK101_2210817310013_RyanMuhammadIrfan {
         String month_name_selected ="";
 
         String [] month_name = {
-                "Januari", "Febuari", "Maret", "April",
+                "Januari", "Februari", "Maret", "April",
                 "Mei", "Juni", "Juli", "Agustus", "September",
                 "Oktober", "November", "Desember"
         };
