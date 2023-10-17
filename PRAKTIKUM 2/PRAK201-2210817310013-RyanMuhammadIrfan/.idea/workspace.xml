@@ -1,29 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="f3d44624-238c-46f4-8310-c2cb6b0ad8c1" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PRAK101_2210817310013_RyanMuhammadIrfan.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Soal1Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Soal1Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRAK202-2210817310013-RyanMuhammadIrfan/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRAK202-2210817310013-RyanMuhammadIrfan/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRAK202-2210817310013-RyanMuhammadIrfan/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRAK202-2210817310013-RyanMuhammadIrfan/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRAK202-2210817310013-RyanMuhammadIrfan/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRAK202-2210817310013-RyanMuhammadIrfan/PRAK102_2210817310013_RyanMuhammadIrfan.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRAK202-2210817310013-RyanMuhammadIrfan/src/Kopi.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRAK202-2210817310013-RyanMuhammadIrfan/src/Soal2Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRAK203-2210817310013-RyanMuhammadIrfan/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRAK203-2210817310013-RyanMuhammadIrfan/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRAK203-2210817310013-RyanMuhammadIrfan/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRAK203-2210817310013-RyanMuhammadIrfan/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRAK203-2210817310013-RyanMuhammadIrfan/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRAK203-2210817310013-RyanMuhammadIrfan/PRAK103_2210817310013_RyanMuhammadIrfan.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRAK203-2210817310013-RyanMuhammadIrfan/src/Pegawai.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRAK203-2210817310013-RyanMuhammadIrfan/src/Soal3Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRAK203_2210817310013_RyanMuhammadIrfan/.idea/workspace.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,10 +22,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2WsSNPjgjz3c2K0OfVveEwVebh8" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -55,7 +37,11 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/Ryan muhammad irfan/Documents/SEMESTER 3/Praktikum Pemrograman II/Praktikum/PRAKTIKUM 2/PRAK201",
+    "last_opened_file_path": "C:/Users/Ryan muhammad irfan/Documents/SEMESTER 3/Praktikum Pemrograman II/Praktikum/PRAKTIKUM 2/PRAK202-2210817310013-RyanMuhammadIrfan",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "onboarding.tips.debug.path": "C:/Users/Ryan muhammad irfan/Documents/SEMESTER 3/Praktikum Pemrograman II/Praktikum/PRAKTIKUM 2/PRAK201-2210817310013-RyanMuhammadIrfan/src/Main.java",
     "vue.rearranger.settings.migration": "true"
   }
@@ -69,6 +55,7 @@
       <option name="presentableId" value="Default" />
       <updated>1697519755165</updated>
       <workItem from="1697519756127" duration="154000" />
+      <workItem from="1697547929568" duration="312000" />
     </task>
     <servers />
   </component>
