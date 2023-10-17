@@ -18,7 +18,7 @@ public class Buah {
         harga_sebelum_diskon = (harga/berat) * jumlah;
         diskon = Math.floor(jumlah/4) * 0.02 * (4 * harga);
         harga_setelah_diskon = harga_sebelum_diskon - diskon;
-        System.out.printf("Harga Sebelum Diskon: %.2f\n", harga_sebelum_diskon);
+        System.out.printf("Harga Sebelum Diskon: Rp%.2f\n", harga_sebelum_diskon);
         System.out.printf("Total Diskon: Rp%.2f\n", diskon);
         System.out.printf("Harga Setelah Diskon: Rp%.2f\n\n", harga_setelah_diskon);
     }
