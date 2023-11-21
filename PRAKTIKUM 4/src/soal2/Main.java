@@ -20,7 +20,7 @@ public class Main {
                 nama = userinput.nextLine();
                 System.out.print("Ras: ");
                 ras = userinput.nextLine();
-                System.out.print("Memiliki warna bulu: ");
+                System.out.print("Warna Bulu: ");
                 warnabulu = userinput.nextLine();
                 Kucing k = new Kucing(ras, nama, warnabulu);
                 k.displayDetailKucing();
@@ -31,12 +31,12 @@ public class Main {
                 nama = userinput.nextLine();
                 System.out.print("Ras: ");
                 ras = userinput.nextLine();
-                System.out.print("Memiliki warna bulu: ");
+                System.out.print("Warna Bulu: ");
                 warnabulu = userinput.nextLine();
                 System.out.print("Kemampuan : ");
                 kemampuanInput = userinput.nextLine();
                 String[] kemampuan = kemampuanInput.split(", ");
-                Anjing a = new Anjing(nama, ras, warnabulu, kemampuan);
+                Anjing a = new Anjing(ras, nama, warnabulu, kemampuan);
                 a.displayDetailAnjing();
                 break;
 

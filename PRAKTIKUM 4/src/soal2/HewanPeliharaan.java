@@ -10,8 +10,8 @@ public class HewanPeliharaan {
     }
 
     public void display(){
-        System.out.println("Detail Hewan Peliharaan :");
-        System.out.println("Nama hewan peliharaan : " + nama);
-        System.out.println("Ras : " + ras);
+        System.out.println("Detail Hewan Peliharaan:");
+        System.out.println("Nama hewan peliharaanku adalah : " + nama);
+        System.out.println("Dengan ras : " + ras);
     }
 }
